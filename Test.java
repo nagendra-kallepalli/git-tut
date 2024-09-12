@@ -6,6 +6,14 @@ public class Test {
         int i = 5;
         int j = i++;
         System.out.println(i + ":" + j);
+
+        int arr[] = {1,2,3};
+
+        for(int x:arr) {
+            System.out.print(x + " ");
+        }
+    
+    
     }
 
 
