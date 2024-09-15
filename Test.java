@@ -7,6 +7,7 @@ public class Test {
         int j = i++;
         System.out.println(i + ":" + j);
 
+        //Code to display an array
         int arr[] = {1,2,3};
 
         for(int x:arr) {
