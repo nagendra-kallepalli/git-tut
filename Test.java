@@ -11,8 +11,8 @@ public class Test {
         int arr[] = {1,2,3};
 
         for(int x:arr) {
-            System.out.print(x + " ");
-        }
+            System.out.print("[" + x + " " + "]");
+        } 
     
     
     }
