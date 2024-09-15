@@ -10,9 +10,14 @@ public class Test {
         //Code to display an array
         int arr[] = {1,2,3};
 
+        System.out.print("[");
         for(int x:arr) {
             System.out.print(x + " ");
         } 
+        System.out.println("]");
+        System.out.println(arr[1]);
+
+
     
     
     }
